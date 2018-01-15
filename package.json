@@ -1,0 +1,34 @@
+{
+  "name": "conference",
+  "version": "1.0.0",
+  "description": "simple conference call with recording videos",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "record-entire-meeting": "^1.0.2",
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "watchify": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaionbd/conference-call.git"
+  },
+  "keywords": [
+    "conference",
+    "call",
+    "webrtc",
+    "video",
+    "recording"
+  ],
+  "author": "Decima Technology",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaionbd/conference-call/issues"
+  },
+  "homepage": "https://github.com/shaionbd/conference-call#readme"
+}
